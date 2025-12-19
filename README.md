@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/products/navisworks/overview/navisworks-social.jpg" width="1080" alt="Navisworks Screenshot"/>  
+  <img src="https://instant-key.com/wp-content/uploads/2023/09/aggregate-data-single-model-large-1920x1080-v1-scaled.jpg" width="1080" alt="Navisworks Screenshot"/>  
 </div>  
 
 <br>  
